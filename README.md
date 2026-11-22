@@ -4,6 +4,8 @@ A **desktop application for tracking physical gold purchases and portfolio perfo
 
 Built with **C++ and Qt 6 (Widgets)**. It uses **SHA-256** for password hashing, **libcurl + nlohmann/json** for API communication, and stores data locally in CSV files. The code is split into small modules, so it is easy to follow if you are learning C++/Qt.
 
+![AuTracker Portfolio](Portfolio.png)
+
 ---
 
 ## Features
